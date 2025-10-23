@@ -35,3 +35,17 @@ time to make the schematic!
 
   
 
+## 10/22/2025 6:22 PM - switching ic to ch334f  
+
+What I Did
+
+nvm im gonna downgrade to usb 2.0 speed, but this chip is so much easier to work with
+Next Steps
+
+find other components like usb port protection
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--a7a66060e0d8555c440364f8ee4e2f3ba1c5fd8f/image.png)
+
+  
+
