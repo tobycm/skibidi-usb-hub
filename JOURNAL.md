@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/22/2025 - finding usb mux ic  
+## 10/22/2025 6:21 PM - finding usb mux ic  
 
 What I Did
 
@@ -19,5 +19,19 @@ Issues Faced
 the chips i found are usually ball pads and there are so much stuff to route lol. i found a good contender with qfn package for 4 port with integrated usb cc negotiations too :D
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--4c9be2eb35be3f3f7cbc08716ce1a807dae89f31/image.png)
+  
+
+## 10/22/2025 6:22 PM - going with the GENESYS GL3523  
+
+
+What I Did
+
+after some more researching, this part can mux 1 usb port into 4, pretty nice and it doesnt have any pads under the package, which is extra nice
+Next Steps
+
+time to make the schematic!
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--51d4beb3696fa8cee0bed77964b3b933d757aa3e/image.png)
+
   
 
