@@ -49,3 +49,21 @@ find other components like usb port protection
 
   
 
+## 10/22/2025 6:23 PM - first 3 usb port is done  
+
+
+
+What I Did
+
+did the schematic for the first 3 ports, pmic added and usb connectors added, its great
+Next Steps
+
+finish the rest of the ports
+Issues Faced
+
+some better ics were not available on lcsc :C
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYwMywicHVyIjoiYmxvYl9pZCJ9fQ==--5ea69c1be66893d60249b49f5c47b6169c312b89/image.png)
+  
+
