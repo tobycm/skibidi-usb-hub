@@ -82,3 +82,16 @@ im so tired, next is routing all of the audio stuff
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--86d05df190298cc8cc96b860dda0c7027fa0fafa/image.png)
   
 
+## 10/22/2025 6:25 PM - all done schematic!!!!  
+
+What I Did
+
+schematic is all done, just finished the audio part. pcb layout should be straightforward and easy
+
+Next Steps
+
+pcb layout and fix ethernet wiring
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--1912f16d553d314c080af9bd78c63c1542058b59/image.png)
+  
+
