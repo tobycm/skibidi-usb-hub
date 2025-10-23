@@ -95,3 +95,18 @@ pcb layout and fix ethernet wiring
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--1912f16d553d314c080af9bd78c63c1542058b59/image.png)
   
 
+## 10/22/2025 6:25 PM - half way done for pcb routing  
+
+What I Did
+
+did so much routing, was so sick so i couldnt finish it earlier lol
+Next Steps
+
+finish the rest of pcb layout
+Issues Faced
+
+sick :heavysob: :heavysob:
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--1a9d5e5205a277058c9f9197f46ed4f40b3b2cba/image.png)
+  
+
