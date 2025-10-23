@@ -67,3 +67,18 @@ some better ics were not available on lcsc :C
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYwMywicHVyIjoiYmxvYl9pZCJ9fQ==--5ea69c1be66893d60249b49f5c47b6169c312b89/image.png)
   
 
+## 10/22/2025 6:24 PM - routed all of the necessity for ethernet  
+
+What I Did
+
+did all of the stuff related to usb ethernet
+Next Steps
+
+last is audio schematic
+Issues Faced
+
+im so tired, next is routing all of the audio stuff
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--86d05df190298cc8cc96b860dda0c7027fa0fafa/image.png)
+  
+
