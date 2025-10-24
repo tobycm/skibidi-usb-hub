@@ -110,3 +110,15 @@ sick :heavysob: :heavysob:
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--1a9d5e5205a277058c9f9197f46ed4f40b3b2cba/image.png)
   
 
+## 10/23/2025 - routed decoupling capacitors  
+
+did some more pcb routing, decoupling caps some are routed, some still need to be routed.
+
+doubting myself huge times on the ethernet wiring so fixing that
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--831bdab5ce704d63bc371d80e804d4ee6a9f1c67/image.png)
+
+
+  
+
