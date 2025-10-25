@@ -122,12 +122,19 @@ doubting myself huge times on the ethernet wiring so fixing that
 
   
 
-## 10/25/2025 - routed ethernet and other misc  
+## 10/25/2025 12 AM - routed ethernet and other misc  
 
 routed so much more stuff today, had to use the correct footprint for the rj45 jack so did a lot of fixing, and fixed the wiring for ethernet and the transformer and stuff
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--276d2a58e30905a425993202088a81f6bbb35858/image.png)
 
 
+  
+
+## 10/25/2025 10 AM - all components on board yay!  
+
+very likely i will finish this today, only a bunch of testpoints left to route and silkscreen text and art to do, but im close there yayyyyyyyyyyyyyyyy
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--e9e54f8f31ece6b600013b7b921863512ef5bd29/image.png)
   
 
