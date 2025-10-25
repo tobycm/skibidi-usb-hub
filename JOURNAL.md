@@ -138,3 +138,12 @@ very likely i will finish this today, only a bunch of testpoints left to route a
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--e9e54f8f31ece6b600013b7b921863512ef5bd29/image.png)
   
 
+## 10/25/2025 3 PM - routing done, art done  
+
+pcb routing is finally done, added art
+
+ready to ship, letssssssssssssssssssssssssssssssssssssssssssss goooooooooooooooooooooooooooooooooooooooooooooooo
+
+![Screenshot from 2025-10-25 15-52-59](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--bc0810f2b7fcb2acd4ad29731769d7442416f879/Screenshot%20from%202025-10-25%2015-52-59.png)
+  
+
