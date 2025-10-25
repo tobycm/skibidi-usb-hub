@@ -122,3 +122,12 @@ doubting myself huge times on the ethernet wiring so fixing that
 
   
 
+## 10/25/2025 - routed ethernet and other misc  
+
+routed so much more stuff today, had to use the correct footprint for the rj45 jack so did a lot of fixing, and fixed the wiring for ethernet and the transformer and stuff
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--276d2a58e30905a425993202088a81f6bbb35858/image.png)
+
+
+  
+
