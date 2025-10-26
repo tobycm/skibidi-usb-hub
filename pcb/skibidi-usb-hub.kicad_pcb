@@ -15109,7 +15109,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c1fa6144-9d02-465b-8ef4-0fabe0347110")
+			(uuid "330d81cd-4677-4317-86a8-6674f77590a3")
 		)
 		(fp_line
 			(start -5.1 -3.55)
@@ -15119,7 +15119,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8013bd6d-ae9c-47a9-ac3c-300d53be2e28")
+			(uuid "a8d1dfa9-7147-4360-b410-6e92635a70d7")
 		)
 		(fp_line
 			(start 6.35 3.56)
@@ -15129,7 +15129,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d2bd7cf8-1b7c-450d-bf6e-5cd983eab884")
+			(uuid "9d01e786-b2d7-42ee-bc77-f4bd297fd8ee")
 		)
 		(fp_line
 			(start 6.35 3.56)
@@ -15139,7 +15139,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "23625c54-664f-4393-bd4e-08476dbce77a")
+			(uuid "402ac51f-205d-40cd-9a76-f5e87e0f7eb7")
 		)
 		(fp_line
 			(start -5.1 3.56)
@@ -15149,7 +15149,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "17a760f5-92e4-49cb-b36a-460021f55f6d")
+			(uuid "46e66d1d-8435-4a7f-a911-67552d305e8c")
 		)
 		(fp_line
 			(start -6.35 3.56)
@@ -15159,7 +15159,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "330e0cca-4c8e-429d-b6b7-1aa883b0cb28")
+			(uuid "7ac0ed1f-cfce-443b-bdb7-6cfa629d874d")
 		)
 		(fp_circle
 			(center -5.59 4.32)
@@ -15170,7 +15170,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "4455d3c9-59f5-4f65-8582-bb8bcc2ad23b")
+			(uuid "2df1d246-9714-4db7-a3dc-b4f460bb1ff9")
 		)
 		(fp_circle
 			(center -5.59 4.32)
@@ -15181,7 +15181,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "056ebd58-af4f-4761-a7b1-44fa6c908e82")
+			(uuid "8c365bba-f52d-4511-8632-8f2aa3f9175a")
 		)
 		(fp_circle
 			(center -6.35 4.76)
@@ -15192,7 +15192,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "68cb00ee-2d80-4bb3-b6f9-acbc9136f019")
+			(uuid "68ae7a76-f378-46a1-be44-dcfc4b111feb")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -15352,13 +15352,13 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/XFMR-SMD_L12.7-W7.1-H6.4-LS9.5-P1.27.wrl"
 			(offset
-				(xyz 0 -0 -0)
+				(xyz 0 0 0.1)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -22179,7 +22179,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ea0957db-1f0c-4d1f-b62c-ccadf14ca3ba")
+			(uuid "32632114-9349-41a8-9e13-935ebdc03a11")
 		)
 		(fp_line
 			(start -5.1 -3.55)
@@ -22189,7 +22189,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "befca5eb-a783-4c77-8c16-4a9c949f0ca3")
+			(uuid "51ec988c-b83d-4ed8-9fb2-03d56d4ee477")
 		)
 		(fp_line
 			(start 6.35 3.56)
@@ -22199,7 +22199,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3149ffc4-be22-4812-827e-6d08e298a66b")
+			(uuid "593774cc-b1cf-40cb-8581-a4a2e1bb45f8")
 		)
 		(fp_line
 			(start 6.35 3.56)
@@ -22209,7 +22209,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6fd0e49f-36f5-476b-8bae-2fc0f8af62b7")
+			(uuid "75bb7077-3c3c-4c53-a3c4-bf0cab1f1a28")
 		)
 		(fp_line
 			(start -5.1 3.56)
@@ -22219,7 +22219,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "64548488-923d-4f98-9142-485303e7404a")
+			(uuid "1e00d9e8-0f86-4841-a67e-9cddf22347b3")
 		)
 		(fp_line
 			(start -6.35 3.56)
@@ -22229,7 +22229,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1e0c0f5e-a28f-446b-85cf-af80c76c7d77")
+			(uuid "c6e23c4d-3284-4813-ab1f-02a78ef9058d")
 		)
 		(fp_circle
 			(center -5.59 4.32)
@@ -22240,7 +22240,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "29d606f8-07d0-47c8-996a-5a60f01556a0")
+			(uuid "c1dada62-9e2e-4fc4-947d-bdbdd707a160")
 		)
 		(fp_circle
 			(center -5.59 4.32)
@@ -22251,7 +22251,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "c2ef1afd-48af-47f5-9f7f-6c8bf9497e56")
+			(uuid "4eb51256-6315-47c5-891f-547e7e0faac3")
 		)
 		(fp_circle
 			(center -6.35 4.76)
@@ -22262,7 +22262,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "19c0bab7-a128-4f7e-8a3e-d8dbd14a3126")
+			(uuid "d0d41a49-5266-45f3-9e03-3264b69e3ddf")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -22422,13 +22422,13 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/XFMR-SMD_L12.7-W7.1-H6.4-LS9.5-P1.27.wrl"
 			(offset
-				(xyz 0 -0 -0)
+				(xyz 0 0 0.1)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
