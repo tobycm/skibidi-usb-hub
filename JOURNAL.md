@@ -147,3 +147,16 @@ ready to ship, letssssssssssssssssssssssssssssssssssssssssssss goooooooooooooooo
 ![Screenshot from 2025-10-25 15-52-59](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--bc0810f2b7fcb2acd4ad29731769d7442416f879/Screenshot%20from%202025-10-25%2015-52-59.png)
   
 
+## 10/25/2025 6 PM - sunked some more time fixing diff pairs  
+
+sunked some more time fixing diff pairs
+
+the other stack up has special, so no pcba, but i need pcba
+
+chose a different one, recalculated stuff and rerouted the pairs
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--799934040a2a2b749ee7abf649ff269a6cead0e1/image.png)
+
+
+  
+
