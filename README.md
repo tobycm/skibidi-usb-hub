@@ -18,4 +18,4 @@ JLCPCB Params:
 
 PCB Front: ![pcb front](pcb%20front.png)
 
-PCB Back: ![pcb back](<Screenshot from 2025-10-25 15-52-59.png>)
+PCB Back: ![pcb back](pcb%20back.png)
