@@ -5992,6 +5992,12 @@
 		(uuid "15c10337-8a9d-4df4-addb-66aa6285f156")
 	)
 	(junction
+		(at 195.58 195.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "15cf1686-892c-495c-b2cb-5363cfbc0dee")
+	)
+	(junction
 		(at 266.7 21.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6106,10 +6112,22 @@
 		(uuid "4d61f0b9-17cd-4192-b810-41bd480e0a50")
 	)
 	(junction
+		(at 218.44 195.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "53bc090b-ecdc-44c6-b574-0a6b3328f4cf")
+	)
+	(junction
 		(at 49.53 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "55da2b14-4591-427c-afaf-cb9f4ec1ea5d")
+	)
+	(junction
+		(at 218.44 251.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "56bfcec8-bab0-42dc-a05c-314df90c27d4")
 	)
 	(junction
 		(at 36.83 121.92)
@@ -6122,12 +6140,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5abee2a9-03ca-4737-9d0e-dbe72d2e8534")
-	)
-	(junction
-		(at 195.58 265.43)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6178ea6c-48c5-40c3-b0dd-25ddadb53241")
 	)
 	(junction
 		(at 364.49 21.59)
@@ -6154,6 +6166,12 @@
 		(uuid "71912796-0e05-41e6-94b3-e583b3a14702")
 	)
 	(junction
+		(at 323.85 220.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "71c5c04f-51a5-444e-9d09-4e063c4268fa")
+	)
+	(junction
 		(at 33.02 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6166,22 +6184,16 @@
 		(uuid "81c70750-3ca4-4de5-84c9-9d7ca0be2ffb")
 	)
 	(junction
-		(at 195.58 209.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8c9addbe-7434-4edd-a16f-b62910ca7217")
-	)
-	(junction
 		(at 290.83 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8d44607f-b45c-4ca1-a807-adc20694d6b0")
 	)
 	(junction
-		(at 218.44 209.55)
+		(at 195.58 251.46)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8e1f8a94-46e5-4bc6-a276-b34013e02594")
+		(uuid "8d613398-8dc5-4214-8ebc-e91afc77b148")
 	)
 	(junction
 		(at 45.72 64.77)
@@ -6272,12 +6284,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bb5665c1-08be-4c3e-b181-8e176e10c8c6")
-	)
-	(junction
-		(at 218.44 265.43)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bea43e1e-b423-4f1f-8618-5548b3b821d3")
 	)
 	(junction
 		(at 71.12 95.25)
@@ -6422,6 +6428,16 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ffd186d6-2c0d-4f91-b7ec-3948a2833a87")
+	)
+	(wire
+		(pts
+			(xy 323.85 220.98) (xy 317.5 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "000dc8d5-2813-4d5d-b193-36eeb4b29059")
 	)
 	(wire
 		(pts
@@ -6605,6 +6621,16 @@
 	)
 	(wire
 		(pts
+			(xy 195.58 251.46) (xy 195.58 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bddf1d6-9fc4-488c-ac00-8f81d52d3831")
+	)
+	(wire
+		(pts
 			(xy 85.09 243.84) (xy 85.09 250.19)
 		)
 		(stroke
@@ -6755,6 +6781,16 @@
 	)
 	(wire
 		(pts
+			(xy 317.5 220.98) (xy 317.5 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a5cdcfe-a6c7-4792-a183-e0724d106d74")
+	)
+	(wire
+		(pts
 			(xy 281.94 250.19) (xy 274.32 250.19)
 		)
 		(stroke
@@ -6885,7 +6921,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 245.11) (xy 218.44 265.43)
+			(xy 218.44 245.11) (xy 218.44 251.46)
 		)
 		(stroke
 			(width 0)
@@ -6922,6 +6958,16 @@
 			(type default)
 		)
 		(uuid "28b6acd8-5208-4ff3-824b-d97276f09b34")
+	)
+	(wire
+		(pts
+			(xy 323.85 220.98) (xy 330.2 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "291aeea6-1615-4b94-b8d7-745a88373fae")
 	)
 	(wire
 		(pts
@@ -7155,6 +7201,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 251.46) (xy 218.44 270.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d6dc6b8-13b7-44f5-a4e9-d6bc2dc793de")
+	)
+	(wire
+		(pts
 			(xy 274.32 245.11) (xy 290.83 245.11)
 		)
 		(stroke
@@ -7165,7 +7221,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 209.55) (xy 218.44 214.63)
+			(xy 218.44 195.58) (xy 218.44 214.63)
 		)
 		(stroke
 			(width 0)
@@ -7332,16 +7388,6 @@
 			(type default)
 		)
 		(uuid "498380e2-49ee-403a-a3ed-36282051b03f")
-	)
-	(wire
-		(pts
-			(xy 218.44 265.43) (xy 218.44 270.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a8bff4a-ef87-49b9-abf3-6e7a1ec7e23d")
 	)
 	(wire
 		(pts
@@ -7582,6 +7628,16 @@
 			(type default)
 		)
 		(uuid "5b3f2ab2-80dd-4ab4-9ca4-768b014ef51a")
+	)
+	(wire
+		(pts
+			(xy 330.2 220.98) (xy 330.2 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c15c9f6-1a40-4c6b-a5c2-0b1f230a0ab2")
 	)
 	(wire
 		(pts
@@ -8235,7 +8291,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 265.43) (xy 218.44 265.43)
+			(xy 195.58 251.46) (xy 218.44 251.46)
 		)
 		(stroke
 			(width 0)
@@ -9055,13 +9111,23 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 189.23) (xy 218.44 209.55)
+			(xy 218.44 189.23) (xy 218.44 195.58)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "c5062a9c-afdf-4b06-a102-527dec27ec90")
+	)
+	(wire
+		(pts
+			(xy 323.85 223.52) (xy 323.85 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c58ad6db-e1e1-4702-8e2b-0e807b477fbb")
 	)
 	(wire
 		(pts
@@ -9125,7 +9191,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 209.55) (xy 218.44 209.55)
+			(xy 195.58 195.58) (xy 218.44 195.58)
 		)
 		(stroke
 			(width 0)
@@ -9662,16 +9728,6 @@
 			(type default)
 		)
 		(uuid "f43ba64b-c7d6-4ec7-b608-1d44da858a9f")
-	)
-	(wire
-		(pts
-			(xy 195.58 251.46) (xy 195.58 265.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4aa6fc3-e628-4e3b-89f3-4262672f63a8")
 	)
 	(wire
 		(pts
@@ -11338,6 +11394,85 @@
 			(project "skibidi-usb-hub"
 				(path "/f93113b1-8f8a-4aab-be23-943bc763420d"
 					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 330.2 234.95 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0ef96be8-0c96-4b43-a879-bea5450786b8")
+		(property "Reference" "C44"
+			(at 326.39 233.0449 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1n"
+			(at 326.39 236.8549 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 329.2348 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 330.2 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 330.2 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C9196"
+			(at 330.2 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9a192f0b-ee4e-47c1-87df-cc5a464c50c1")
+		)
+		(pin "1"
+			(uuid "03a82af8-df0d-4b99-a91a-b001a9f1bba9")
+		)
+		(instances
+			(project "skibidi-usb-hub"
+				(path "/f93113b1-8f8a-4aab-be23-943bc763420d"
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -15995,6 +16130,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 317.5 238.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6a3a1eae-5277-4bae-ab31-8003b4e0015f")
+		(property "Reference" "#PWR059"
+			(at 317.5 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND2"
+			(at 317.5 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 317.5 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 317.5 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dd74fb33-b257-4108-9604-3a1bc39a4724")
+		)
+		(instances
+			(project "skibidi-usb-hub"
+				(path "/f93113b1-8f8a-4aab-be23-943bc763420d"
+					(reference "#PWR059")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 83.82 201.93 0)
 		(unit 1)
@@ -17474,6 +17675,72 @@
 			(project "skibidi-usb-hub"
 				(path "/f93113b1-8f8a-4aab-be23-943bc763420d"
 					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 330.2 238.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7f354400-ab91-4771-9245-bae88206b8cb")
+		(property "Reference" "#PWR060"
+			(at 330.2 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND3"
+			(at 330.2 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 330.2 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 330.2 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "be67ac99-b28b-4bb4-8d92-0a208ed701e6")
+		)
+		(instances
+			(project "skibidi-usb-hub"
+				(path "/f93113b1-8f8a-4aab-be23-943bc763420d"
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -19491,6 +19758,72 @@
 			(project ""
 				(path "/f93113b1-8f8a-4aab-be23-943bc763420d"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 323.85 223.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "94016528-4755-4654-bc42-8e2e2db9a42e")
+		(property "Reference" "#PWR061"
+			(at 323.85 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 323.85 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 323.85 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 323.85 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 323.85 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "625dea10-1d19-414e-8c96-dfb049d0cb3f")
+		)
+		(instances
+			(project ""
+				(path "/f93113b1-8f8a-4aab-be23-943bc763420d"
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -22284,6 +22617,85 @@
 			(project "skibidi-usb-hub"
 				(path "/f93113b1-8f8a-4aab-be23-943bc763420d"
 					(reference "#PWR067")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 317.5 234.95 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c65ab48c-cfdc-4589-939b-eb17accebe7b")
+		(property "Reference" "C43"
+			(at 313.69 233.0449 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1n"
+			(at 313.69 236.8549 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 316.5348 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 317.5 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 317.5 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C9196"
+			(at 317.5 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b1b7208f-fda5-4736-b986-4c155296a34f")
+		)
+		(pin "1"
+			(uuid "4dc29784-d217-49c3-8942-e7cbf8e33c43")
+		)
+		(instances
+			(project "skibidi-usb-hub"
+				(path "/f93113b1-8f8a-4aab-be23-943bc763420d"
+					(reference "C43")
 					(unit 1)
 				)
 			)
