@@ -23,8 +23,10 @@ Qty,Value,LCSC Part #
 2,AF 90° WJDG,C456018
 2,X322516MLB4SI,C13738
 ,,
-,,
-,PCB + PCBA,$105.29
-,JLCPCB Shipping,$75.94
-,,
-,Total price (incl bulk minimum),$181.23
+,LCSC,$47.73
+,LCSC Shipping,$20.00
+,PCB,$28.00
+,Stencil,$3.00
+,JLCPCB Shipping,$9.00
+,Shipping customs,$22.69
+,Total,$130.42
